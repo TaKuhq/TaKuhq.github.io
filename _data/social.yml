@@ -1,9 +1,6 @@
 - title: Email
   url: mailto://guohonqi0@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/TaKuhq
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/TaKu/
+  url: https://github.com/TaKuhq/
   icon: fab fa-github
