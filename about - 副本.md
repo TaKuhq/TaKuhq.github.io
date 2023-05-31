@@ -19,6 +19,16 @@ title: About
 - Frameworks: SpringBoot, Flask, Django, PyTorch, JUCE.
 - Tools and Systems: Linux, Git, Cloud Platform (AWS, GCP), Visual Studio, Visual Studio Code.
 
+## Internship Experience
+
+- JD.com, Inc - Software Development, May 2021 - Dec 2021
+  - Internship achievements:
+    - Assisted in maintaining the JD Health mobile phone application end in the team, which improved the functionality and accuracy of the original model and achieved 81% prediction accuracy in the e-commerce promotion campaign.
+  - Software development:
+    - Participated in code alternation.
+    - Urgently maintained bugs in e-commerce promotion activities and completed the launch within 10 minutes.
+    - Empowered operation through software and improved the efficiency of operators.
+
 ## Research Experience
 
 - Research on Water Market, Aug 2020 - Dec 2020
