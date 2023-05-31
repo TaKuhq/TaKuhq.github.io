@@ -3,13 +3,13 @@ layout: page
 title: About Me
 
 ---
-<img src="/me.jpeg" alt="Image" style="width: 200px; height: 200px; float: right;">
+<img src="/me.jpeg" alt="Image" style="width: 250px; height: 250px; float: right;">
 
 # Hongqi.Guo
 
 ## Education
 - Northeastern University, Boston, MA
-  - Software Engineering Graduate Program, Jan 2023 - Present
+  - Master of Software Engineering, Jan 2023 - Present
 - Washington State University, Pullman, WA
   - Bachelor of Science in Computer Science, Aug 2017 - Aug 2021
     - Related courses: Algorithmic Problem Solving, Computer Security, Programming Language Design, Artificial Intelligence, Intro to Neural Networks, Human-Computer Interaction, Intro to Machine Learning, Software Design Project I/II, Intro to Database.
