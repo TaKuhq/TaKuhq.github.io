@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-# About Me
+# Hongqi.Guo
 
 ## Education
 - Northeastern University - Software Engineering Graduate Program, Jan 2023 - Present
