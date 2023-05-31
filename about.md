@@ -4,7 +4,7 @@ title: About Me
 ---
 
 # Hongqi.Guo
-
+<img src="/avatar.jpeg" alt="Image" style="width: 300px; height: 200px; float: right;">
 ## Education
 - Northeastern University - Software Engineering Graduate Program, Jan 2023 - Present
 - Washington State University, Pullman, Washington
